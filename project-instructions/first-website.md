@@ -931,7 +931,7 @@ After completing this TODO, your `<nav>` section should look like this:
 2. **Enter the following commands one by one** in the terminal, pressing enter after each command to run it:
 
    ```bash
-   git add .
+0   git add .
    git commit -m "add index.html and css files"
    git push
    ```
